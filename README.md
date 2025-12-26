@@ -77,3 +77,8 @@ Stores rolling vaccination metrics for BI dashboards.
 ---
 
 ## 📁 Project Structure
+covid-sql-exploration/
+│── sql/
+│     └── covid_exploration.sql
+│── README.md
+
